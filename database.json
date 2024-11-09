@@ -1,0 +1,205 @@
+{
+  "produits": [
+    {
+      "id": 6,
+      "reference": "Sicamtom",
+      "designation": "Sicam DCT 1/2 SICAM",
+      "marque": "Sicam",
+      "prixAchat": 2.3,
+      "prixVente": 2.5,
+      "qtestock": 85,
+      "caracteristiques": "DCT 1/2 SICAM Ref : 6194055500128",
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658755130/images/sicamtomate1.jpg.jpg"
+    },
+    {
+      "id": 7,
+      "reference": "thon",
+      "designation": "El Manar Lot de 3 Thon entier Extra - A l'huile d'olive",
+      "marque": "Elmanar",
+      "prixAchat": 8.9,
+      "prixVente": 12.5,
+      "qtestock": 85,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658755241/images/elmanarthon.jpg.jpg"
+    },
+    {
+      "id": 8,
+      "reference": "delio",
+      "designation": "Delice Déli'O Menthe - 25Cl",
+      "marque": "Delice",
+      "prixAchat": 0.59,
+      "prixVente": 0.65,
+      "qtestock": 100,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754036/images/delicedelio.jpg.jpg"
+    },
+    {
+      "id": 9,
+      "reference": "Infinix",
+      "designation": "Infinix Smart 5 - 6.6\" - 3 Go - 64 Go - Quetzal Cyan ",
+      "marque": "280",
+      "prixAchat": 300,
+      "prixVente": 349,
+      "qtestock": 25,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754656/images/infinix2.jpg.jpg"
+    },
+    {
+      "id": 10,
+      "reference": "GalaxyA02",
+      "designation": "Samsung Galaxy A02 s - 6.5\" - 4Go - 64Go - Noir",
+      "marque": "Samsung",
+      "prixAchat": 380,
+      "prixVente": 429,
+      "qtestock": 100,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754354/images/samsungGalaxy.jpg.jpg"
+    },
+    {
+      "id": 11,
+      "reference": "TecnoOC",
+      "designation": "Tecno Spark 6 - 6.8\" - 4 Go - 128 Go",
+      "marque": "Tecno",
+      "prixAchat": 370,
+      "prixVente": 469,
+      "qtestock": 80,
+      "imageartpetitf": "https://media.ldlc.com/r1600/ld/products/00/06/12/68/LD0006126895.jpg"
+    },
+    {
+      "id": 12,
+      "reference": "A12",
+      "designation": "Samsung Galaxy A12 - 6.5\" - 4 Go - 128 Go",
+      "marque": "Samsung",
+      "prixAchat": 543,
+      "prixVente": 555,
+      "qtestock": 123,
+      "imageartpetitf": "https://skymil-informatique.com/41911-large_default/smartphone-samsung-galaxy-a15-4g-4go-128go.jpg"
+    },
+    {
+      "id": 13,
+      "reference": "Techno4",
+      "designation": "Tecno Pop 4 - 6\"- 2Go - 32Go",
+      "marque": "Tecno",
+      "prixAchat": 220,
+      "prixVente": 269,
+      "qtestock": 85,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658751429/images/about.jpg.jpg"
+    },
+    {
+      "id": 14,
+      "reference": "Nokia1",
+      "designation": "Nokia 1.4 - 6.52\" - 2 Go - 32 Go - Charcoal",
+      "marque": "Nokia",
+      "prixAchat": 250,
+      "prixVente": 285,
+      "qtestock": 100,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658749242/images/lenouv.jpg.jpg"
+    },
+    {
+      "id": 15,
+      "reference": "redmi9",
+      "designation": "XIAOMI Redmi 9 - 6.53\" - 4 Go - 64 Go ",
+      "marque": "Xioami",
+      "prixAchat": 440,
+      "prixVente": 600,
+      "qtestock": 100,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658750695/images/xioami.jpg.jpg"
+    },
+    {
+      "id": 16,
+      "reference": "Tablog",
+      "designation": "Logicom La Tab Link 71 - 7\"- 16GB",
+      "marque": "Logicom",
+      "prixAchat": 140,
+      "prixVente": 184,
+      "qtestock": 20,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754595/images/hw2.jpg.jpg"
+    },
+    {
+      "id": 17,
+      "reference": "Lenoouv1",
+      "designation": "Lenovo Tab M7 7.0 - 16GB",
+      "marque": "Lenouv",
+      "prixAchat": 240,
+      "prixVente": 269,
+      "qtestock": 25,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754782/images/lenov3.jpg.jpg"
+    },
+    {
+      "id": 18,
+      "reference": "Huawi1",
+      "designation": "Huawei Tablette - MatePad T",
+      "marque": "Huawei",
+      "prixAchat": 299,
+      "prixVente": 384,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754602/images/hw3.jpg.jpg"
+    },
+    {
+      "id": 19,
+      "reference": "Huawei10",
+      "designation": "Huawei MatePad T - 10",
+      "marque": "Huawei",
+      "prixAchat": 355,
+      "prixVente": 499,
+      "qtestock": 50,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754588/images/hw.jpg.jpg"
+    },
+    {
+      "id": 20,
+      "reference": "HP1",
+      "designation": "Hp PC Portable - 13.3\" - Intel Core™ i5-7200U",
+      "marque": "Hp",
+      "prixAchat": 3800,
+      "prixVente": 4280,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754499/images/HP1.jpg.jpg"
+    },
+    {
+      "id": 21,
+      "reference": "lenov1",
+      "designation": "Lenovo PC Portable ThinkBook - i3 10è Gén-4Go-1To-Gris",
+      "marque": "Lenovo",
+      "prixAchat": 1100,
+      "prixVente": 1299,
+      "qtestock": 20,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754854/images/lenov23.jpg.jpg"
+    },
+    {
+      "id": 22,
+      "reference": "Lenov22",
+      "designation": "Lenovo PC Portable IP330/4000 DualCore/4Go/1To",
+      "marque": "Lenovo",
+      "prixAchat": 840,
+      "prixVente": 899,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754862/images/lenov22.jpg.jpg"
+    },
+    {
+      "id": 23,
+      "reference": "Dell5570",
+      "designation": "DELL PC Inspiron 5570",
+      "marque": "DELL",
+      "prixAchat": 1200,
+      "prixVente": 1320,
+      "qtestock": 5,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658751399/images/dell1.jpg.jpg"
+    },
+    {
+      "id": 24,
+      "reference": "CarDell",
+      "designation": "Dell Vostro 3500 - I5 11è Gén - 8 Go - 256 Go SSD",
+      "marque": "DELL",
+      "prixAchat": 1500,
+      "prixVente": 1640,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658749285/images/dellvostro.jpg.jpg"
+    },
+    {
+      "id": 25,
+      "reference": "HPV1",
+      "designation": "Hp Laser Jet Pro - Imprimante Noir et Blanc",
+      "marque": "HP",
+      "prixAchat": 300,
+      "prixVente": 369,
+      "qtestock": 50,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754362/images/HP.jpg.jpg"
+    }
+  ]
+}
